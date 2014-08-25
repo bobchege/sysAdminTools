@@ -35,11 +35,11 @@ class Utilities():
 	
 class Mno_services(soaphandler.SoapHandler):
 	# initialize all the variables here
-	DB_HOST="sentinel"
-	DB_USER="OptimusBot"
-	DB_PASS="b00tv4@1*8"
-	DB="airtimeTest"
-	DB_MAIN="mnoservices"
+	DB_HOST="XXXXXX"
+	DB_USER="XXXXXX"
+	DB_PASS="XXXXXX"
+	DB="XXXXXXX"
+	DB_MAIN="XXXXXXX"
 	#today=time.strftime("%Y-%m-%d %H:%M:%S")
 	#db=MySQLdb.connect(DB_HOST,DB_USER,DB_PASS,DB_MAIN)
 	#dbLink=db.cursor()
