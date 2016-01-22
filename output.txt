@@ -1,0 +1,42 @@
+Sample output for the get_device.sh data
+
+<user>@<ip>'s password:
+--------------------- Welcome -----------------------
+-----------------System Information------------------
+|  System Name           | SN_210235G7GE10E2000004  |
+|  Device Type           | OceanStor S6900-M100     |
+|  Current System Mode   | Double Controllers Normal|
+|  Mirroring Link Status | Link Up                  |
+|  Location              |                          |
+|  Time                  | 2015-09-23 09:39:54      |
+|  Device Serial Number  | 210235G7GE10E2000004     |
+|  Product Version       | V100R005C30              |
+-----------------------------------------------------
+
+<user>:/>
+
+log.txt
+==============BEGIN============
+Current time is 11:37:00
+ControllerID,BBUID,Voltage
+ A, 0, 11.7
+ A, 1, 11.7
+ B, 0, 11.7
+ B, 1, 11.7
+==============END==============
+==============BEGIN============
+Current time is 11:37:35
+ControllerID,BBUID,Voltage
+ A, 0, 11.7
+ A, 1, 11.7
+ B, 0, 11.7
+ B, 1, 11.7
+==============END==============
+==============BEGIN============
+Current time is 11:39:03
+ControllerID,BBUID,Voltage
+ A, 0, 11.7
+ A, 1, 11.7
+ B, 0, 11.7
+ B, 1, 11.7
+==============END==============
