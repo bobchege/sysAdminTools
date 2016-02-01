@@ -995,8 +995,8 @@ do_log_audit
 do_sys_access_authorization
 
 
-DIR=/home/ops/test
+DIR=$PWD
 logd "Processing completed...Now exiting..."
-ls -al $DIR/manager2.sh
+ls -al $DIR/LinManager.sh
 cd $DIR
-./manager2.sh stop
+./LinManager.sh stop
