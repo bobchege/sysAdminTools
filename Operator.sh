@@ -4,7 +4,9 @@
 # Author: aprils3c0nd                                     #
 # Date: 02/02/2016                                        #
 # Use: This script is used to log a server and manage     # 
-# log files. It could as well be adapted to run any cmd   #
+# log files. It could as well be adapted to run any cmd   # 
+# To use this script create a file with list of ips and   #
+# invoke this script with a for loop on the list of IPs   #
 ###########################################################
 
 set prompt "(%|#|>|\\$) $"
